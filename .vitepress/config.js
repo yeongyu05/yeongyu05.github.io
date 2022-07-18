@@ -21,7 +21,7 @@ function getRecall(){
       text: '회고✨',
       collapsible: true,
       items: [
-        // { text: '2022년 07월 넷째 주를 회고', link: '/TIL/202207/2022071'},
+        { text: '2022년 07월 넷째 주를 회고', link: '/TIL/202207/20220722'},
       ]
     };
 }
@@ -34,6 +34,7 @@ function get07TIL(){
     collapsible: true,
     items: [
       {text: '2022/07/18', link: '/TIL/202207/20220718'},
+      {text: '2022/07/22', link: '/TIL/202207/20220722'},
     ]
   }
 }
@@ -53,15 +54,8 @@ function getSidebar(){
           { text: '2022년07월', link: '/TIL/202207/202207'},
         ]
       },
-      getRecall(),
-      {
-        text: '기능대회💻',
-        collapsible: true,
-        items: [
-          {text: '문제정리', link: '/webskills/problemRank'}
-        ]
-      },
-  ],
+      getRecall()
+    ],
   };
 }
 function getNav(){
