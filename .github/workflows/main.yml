@@ -14,3 +14,4 @@ jobs:
                   BUILD_SCRIPT: yarn && yarn build
                   TARGET_BRANCH: gh-pages
                   BUILD_DIR: .vitepress/dist
+
