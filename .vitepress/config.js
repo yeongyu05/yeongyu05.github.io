@@ -34,6 +34,7 @@ function getNav(){
         {
             text:'TIL',
             link:"/TIL/202207/202207018",
+            link:"/TIL/202207/202207019",
             activeMatch: "/TIL/",
         },
         {
