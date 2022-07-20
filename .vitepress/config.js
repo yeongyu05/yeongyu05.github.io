@@ -23,6 +23,8 @@ function getSidebar(){
                 collapsible: true,
                 items: [
                     { text: '2022년07월', link: '/TIL/202207/202207'},
+                    { text: '2022년07월18일', link: '/TIL/202207/20220718'},
+                    { text: '2022년07월19일', link: '/TIL/202207/20220719'},
                 ]
             },
         ],
@@ -31,12 +33,6 @@ function getSidebar(){
 
 function getNav(){
     return [
-        {
-            text:'TIL',
-            link:"/TIL/202207/202207018",
-            link:"/TIL/202207/202207019",
-            activeMatch: "/TIL/",
-        },
         {
             text: 'Menu',
             items: [
