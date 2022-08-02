@@ -37,6 +37,7 @@ function getSidebar(){
                     { text: '2022년07월29일', link: '/TIL/202207/20220729'},
                     { text: '2022년07월30일', link: '/TIL/202207/20220730'},
                     { text: '2022년07월31일', link: '/TIL/202207/20220731'},
+                    { text: '2022년08월', link: '/TIL/202208/202208'},
                     { text: '2022년08월01일', link: '/TIL/202207/20220801'},
                 ]
             },
@@ -52,6 +53,11 @@ function getNav(){
               {
                   text:'TIL',
                   link:"/TIL/202207/202207",
+                  activeMatch: "/TIL/",
+              },
+              {
+                  text:'TIL',
+                  link:"/TIL/202208/202208",
                   activeMatch: "/TIL/",
               },
               {
