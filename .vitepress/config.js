@@ -44,8 +44,8 @@ function getSidebar() {
                 collapsible: true,
                 items: [
                     { text: '2022년08월', link: '/TIL/202208/202208' },
-                    { text: '2022년08월01일', link: '/TIL/202207/20220801' },
-                    { text: '2022년08월02일', link: '/TIL/202207/20220802' },
+                    { text: '2022년08월01일', link: '/TIL/202208/20220801' },
+                    { text: '2022년08월02일', link: '/TIL/202208/20220802' },
                 ]
             }
         ]
