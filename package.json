@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
       "vitepress": "^1.0.0-alpha.4",
-      "vitepress-simple-theme": "^0.4.0"
+      "vitepress-simple-theme": "^0.5.1"
   }
 }
