@@ -11,7 +11,11 @@ export default {
     themeConfig: {
         sidebar: getSidebar(),
         nav: getNav()
-    },
+    },vite:{
+        ssr:{
+          format:"cjs",
+        }
+      },
 
 }
 
