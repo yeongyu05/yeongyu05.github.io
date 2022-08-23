@@ -6,8 +6,9 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@main
+            - run: node -v
             - name: Vuepress deploy
-              uses: jenkey2011/vuepress-deploy@master
+              uses: jenkey2011/vuepress-deploy@1.6.1
               env:
                   ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
                   BUILD_SCRIPT: yarn && yarn build
