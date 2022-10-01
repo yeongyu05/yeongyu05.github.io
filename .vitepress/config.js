@@ -114,6 +114,14 @@ function getSidebar() {
                     { text: '2022년09월26일', link: '/TIL/202209/20220926' },
                 ]
             },
+            {
+                text: 'TIL📖',
+                collapsible: true,
+                items: [
+                    { text: '2022년10월', link: '/TIL/202210/202210' },
+                    { text: '2022년10월01일', link: '/TIL/202209/20221001' },
+                ]
+            },
         ]
     }
 }
@@ -136,6 +144,11 @@ function getNav() {
                 { 
                     text: 'TIL',
                     link: "/TIL/202209/202209",
+                    activeMatch: "/TIL/",
+                },
+                { 
+                    text: 'TIL',
+                    link: "/TIL/202210/202210",
                     activeMatch: "/TIL/",
                 },
                 {
