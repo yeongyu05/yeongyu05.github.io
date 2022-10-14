@@ -2,7 +2,7 @@
 import Theme from "vitepress-simple-theme";
 import Comment from '../components/Comment.vue';
 export default {
-    ... Theme,
+    ...Theme,
     enhanceApp({ app }) {
       app.component('Comment', Comment);
     },
