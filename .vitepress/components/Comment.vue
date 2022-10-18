@@ -12,7 +12,7 @@ export default {
     
     utterances.setAttribute('issue-term', 'pathname'); // pathname | url | title | og:title 중 택 1
     utterances.setAttribute('theme','github-light');
-    utterances.setAttribute('repo', "yeongyu05/blog_comments" );
+    utterances.setAttribute('repo', "yeongyu05/blog_comment" );
 
     this.$refs.comment.appendChild(utterances);
   }
