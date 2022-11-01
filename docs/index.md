@@ -9,3 +9,5 @@ title: "김연규"
  - 기능반에 들어감.
  - 2022 지방기능경기대회 출전
  - 2022 민간기능경기대회 우수상
+ - https://yeongyu05.github.io/ChromeDino/Game/
+ - https://yeongyu05.github.io/UnityTetris/Game

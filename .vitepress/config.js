@@ -153,6 +153,15 @@ function getSidebar() {
                     { text: '2022년10월28일', link: '/TIL/202210/20221028' },
                     { text: '2022년10월29일', link: '/TIL/202210/20221029' },
                     { text: '2022년10월30일', link: '/TIL/202210/20221030' },
+                    { text: '2022년10월31일', link: '/TIL/202210/20221031' },
+                ]
+            },
+            {
+                text: 'TIL📖',
+                collapsible: true,
+                items: [
+                    { text: '2022년11월', link: '/TIL/202211/202211' },
+                    { text: '2022년11월01일', link: '/TIL/202210/20221101' },
                 ]
             },
         ]
@@ -184,6 +193,11 @@ function getNav() {
                     link: "/TIL/202210/202210",
                     activeMatch: "/TIL/",
                 },
+                { 
+                    text: 'TIL',
+                    link: "/TIL/202211/202211",
+                    activeMatch: "/TIL/",
+                },
                 {
                     text: '회고',
                     link: "/TIL/202207/20220722",
@@ -200,6 +214,7 @@ function getNav() {
                     link: '/TIL/202210/20221007',
                     link: '/TIL/202210/20221014',
                     link: '/TIL/202210/20221021',
+                    link: '/TIL/202210/20221028',
                     activeMatch: "/TIL/",
                 },
             ]
