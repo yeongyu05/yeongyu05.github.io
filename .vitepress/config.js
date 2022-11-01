@@ -161,7 +161,7 @@ function getSidebar() {
                 collapsible: true,
                 items: [
                     { text: '2022년11월', link: '/TIL/202211/202211' },
-                    { text: '2022년11월01일', link: '/TIL/202210/20221101' },
+                    { text: '2022년11월01일', link: '/TIL/202211/20221101' },
                 ]
             },
         ]
