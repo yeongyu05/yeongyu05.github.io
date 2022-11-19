@@ -42,6 +42,10 @@ function getSidebar() {
           { text: "2022년07월30일", link: "/TIL/202207/20220730" },
           { text: "2022년07월31일", link: "/TIL/202207/20220731" },
         ],
+      },
+      {
+        text: "TIL📖",
+        collapsible: true,        
         items: [
           { text: "2022년08월", link: "/TIL/202208/202208" },
           { text: "2022년08월01일", link: "/TIL/202208/20220801" },
@@ -76,6 +80,10 @@ function getSidebar() {
           { text: "2022년08월30일", link: "/TIL/202208/20220830" },
           { text: "2022년08월31일", link: "/TIL/202208/20220831" },
         ],
+      },
+      {
+        text: "TIL📖",
+        collapsible: true,        
         items: [
           { text: "2022년09월", link: "/TIL/202209/202209" },
           { text: "2022년09월01일", link: "/TIL/202209/20220901" },
@@ -109,6 +117,10 @@ function getSidebar() {
           { text: "2022년09월29일", link: "/TIL/202209/20220929" },
           { text: "2022년09월30일", link: "/TIL/202209/20220930" },
         ],
+      },
+      {
+        text: "TIL📖",
+        collapsible: true,        
         items: [
           { text: "2022년10월", link: "/TIL/202210/202210" },
           { text: "2022년10월01일", link: "/TIL/202210/20221001" },
@@ -143,6 +155,10 @@ function getSidebar() {
           { text: "2022년10월30일", link: "/TIL/202210/20221030" },
           { text: "2022년10월31일", link: "/TIL/202210/20221031" },
         ],
+      },
+      {
+        text: "TIL📖",
+        collapsible: true,        
         items: [
           { text: "2022년11월", link: "/TIL/202211/202211" },
           { text: "2022년11월01일", link: "/TIL/202211/20221101" },
