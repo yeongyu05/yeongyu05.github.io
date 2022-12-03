@@ -193,6 +193,16 @@ function getSidebar() {
           { text: "2022년11월30일", link: "/TIL/202211/20221130" },
         ],
       },
+      {
+        text: "TIL📖",
+        collapsible: true,        
+        items: [
+          { text: "2022년12월", link: "/TIL/202212/202212" },
+          { text: "2022년12월01일", link: "/TIL/202212/20221201" },
+          { text: "2022년12월02일", link: "/TIL/202212/20221202" },
+          { text: "2022년12월03일", link: "/TIL/202212/20221203" },
+        ],
+      },
     ],
   };
 }
@@ -225,6 +235,11 @@ function getNav() {
         {
           text: "TIL",
           link: "/TIL/202211/202211",
+          activeMatch: "/TIL/",
+        },
+        {
+          text: "TIL",
+          link: "/TIL/202212/202212",
           activeMatch: "/TIL/",
         },
         {
