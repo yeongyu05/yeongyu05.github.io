@@ -27,7 +27,8 @@ function getSidebar() {
         collapsible: true,        
         items: [
           { text: "2023년01월", link: "/TIL/202301/202301" },
-          { text: "2023년01월01일", link: "/TIL/202301/20230101" },
+          { text: "2023년01월02일", link: "/TIL/202301/20230102" },
+          { text: "2023년01월04일", link: "/TIL/202301/20230104" },
         ],
       },
       {
