@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as i,N as a}from"./chunks/framework.d04470e0.js";const p=JSON.parse('{"title":"김연규","description":"","frontmatter":{"title":"김연규"},"headers":[],"relativePath":"index.md"}'),r={name:"index.md"},o=a("",2),n=[o];function l(s,_,h,c,d,u){return i(),t("div",null,n)}const f=e(r,[["render",l]]);export{p as __pageData,f as default};
